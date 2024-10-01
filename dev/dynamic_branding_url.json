@@ -1,6 +1,7 @@
 {
   "inviteDomain":"meeting.360saglik.dev",
   "backgroundColor":"",
+  "virtualBackgrounds": ["https://imagedelivery.net/Eh7o3vaEoOC6YLpifNwkYQ/-360meeting-background/public"],
   "backgroundImageUrl":"https://imagedelivery.net/Eh7o3vaEoOC6YLpifNwkYQ/-360meeting-background/public",
   "logoClickUrl":"https://www.360saglik.dev",
   "logoImageUrl":"https://raw.githubusercontent.com/360Saglik/jitsi-meeting-options/main/dev/image.svg"
